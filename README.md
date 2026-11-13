@@ -9,10 +9,8 @@ Bu proje, [Frontend Mentor](https://www.frontendmentor.io) üzerindeki [Base App
 
 ## Özellikler
 
-- Masaüstü ve mobil ekranlar için tam uyumlu (Responsive) tasarım.
 - Flexbox ile iki sütunlu modern yerleşim yapısı.
 - Şeffaf form elemanları ve özel tasarım butonlar.
-- Orijinal tipografiye uygun Google Fonts entegrasyonu (`Josefin Sans`).
 
 ## Kullanılan Teknolojiler
 
